@@ -1,4 +1,4 @@
-WSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: 2010-09-09
 Description: CloudFormation script to create one VNS3 free edition network controller with five Amazon Linux AMI overlay clients. (qs-1pn7ttn0q)
 Metadata:
   AWS::CloudFormation::Interface:
